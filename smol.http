@@ -1,0 +1,6 @@
+@smol_HostAddress = http://localhost:5007
+
+GET {{smol_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
